@@ -1,0 +1,8 @@
+{
+  "name": "Aurora - Personal AI Portfolio",
+  "description": "A sleek, modern personal website featuring a dynamic image gallery, project showcase, and a built-in Gemini-powered AI assistant to help visitors learn more about you.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
